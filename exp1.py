@@ -5,3 +5,4 @@ print (vegetable);
 print (animal);
 print (mineral);
 print("good evening")
+print("have a nice day")
